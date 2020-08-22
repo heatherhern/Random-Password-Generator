@@ -6,5 +6,7 @@ Use the confirms to select what characters, letters, and numbers to include in y
 
 ![Alt text](/screenshotexample.png "Optional Title")
 
+Link to live site: https://heatherhern.github.io/Random-Password-Generator/
+
 ---
 
